@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Sailor Moon</title>
+    <link rel="stylesheet" href="style.css"
+</head>
+   <body>
+     <header>
+        <h1 id="title">Sailor Moon</h1>            
+    <header>
+    <section>                                   
+        <header>                                
+            <h2 class="subtitle">Posts</h2>
+        </header>
+        <article class="post">
+            <header>
+                <h3 class="post_title">Post #1</h3>
+                <img src="https://images.tcdn.com.br/img/editor/up/664029/Sailor_Moon_Banner.png" class="post_imagem">
+            </header>
+        </article>
+        <p class="post_content"> 
+            Sailor Moon conta a história de Usagi Tsukino uma garota normal e inocente de 14 anos, que um dia encontra Luna, uma gata falante que revela 
+            a indentidade de Usagi como Sailor Moon, uma guerreira mágica destinada a salvar a terra das forças do mal. 
+             </p>
+    </section> 
+    <footer>
+        <ul class="contacts_list">
+            <li>
+                <a href="mailto:sairlonmoon@gmail.com">Sailor Moon</a>
+            </li>
+            <li>
+                <a href="https://www.linkedin.com/in/emanoella-valdevino/" target="_blank">Linkedin</a>   
+            </li>
+            <li>
+                <a href="https://pt.wikipedia.org/wiki/Sailor_Moon" target="_blank">Wiki</a> 
+            </li>
+        </ul>
+    </footer>   
+    <body>
+</html>
